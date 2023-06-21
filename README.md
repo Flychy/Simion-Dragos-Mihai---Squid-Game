@@ -1,3 +1,1 @@
-# Simion-Dragos-Mihai---Squid-Game
-OOP Lab Porject
-Grupa 321AC
+#Created by Simion Dragos-Mihai All Rights Reserved
